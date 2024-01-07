@@ -1,4 +1,4 @@
-![logo](Background.jpeg)
+![logo](Background.png)
 
 
 <h1 align="center">Hi 👋, I'm Anup Deshmukh</h1>
