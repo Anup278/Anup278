@@ -30,7 +30,7 @@
 </br>
 <br>
 
-<h3 align="right">Languages and Tools :- </h3>
+<h3 align="center">Languages and Tools :- </h3>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
