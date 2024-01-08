@@ -67,7 +67,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
-  <a href="anupd0278@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:anupd0278@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" />
 <a href="https://linkedin.com/in/anup2789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-suman-mohan/" height="30" width="40" /></a>
 <a href="https://blog-anup.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sumanprasad.hashnode.dev" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anup2799?igsh=OTFid3RyOTRldzFo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suman_prasad_007" height="30" width="40" /></a>
