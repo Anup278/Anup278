@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Frontend & Devops**
 
-- 📫 How to reach me [**Anup Deshmukh**](https://linkedin.com/in/anup2789))
+- 📫 How to reach me [**Anup Deshmukh**](https://linkedin.com/in/anup2789)
 
 - ⚡ Fun fact **I think I'm funny**
 
