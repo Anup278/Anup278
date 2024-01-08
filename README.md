@@ -15,11 +15,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </br><br>
 
-- 🔭 I’m currently working in [**Zensar Technologies**](https://www.zensar.com/)as **Software Engineer**
+- 🔭 I’m currently working in [**Zensar Technologies**](https://www.zensar.com/) as **Software Engineer**
 - 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my Blog's & Certificate's are available at [Anup27](https://blog-anup.hashnode.dev)
+- 👨‍💻 All of my Blog's & Certificate's are available at [**Anup27**](https://blog-anup.hashnode.dev)
 
 - 💬 Ask me about **Frontend & Devops**
 
