@@ -16,14 +16,14 @@
 </br><br>
 
 - 🔭 I’m currently working in [**Zensar Technologies**](https://www.zensar.com/) as **Software Engineer**
-- 
+  
 - 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my Blog's & Certificate's are available at [**Anup27**](https://blog-anup.hashnode.dev)
 
 - 💬 Ask me about **Frontend & Devops**
 
-- 📫 How to reach me **anupd0278@gmail.com**
+- 📫 How to reach me [**Anup Deshmukh**](https://linkedin.com/in/anup2789))
 
 - ⚡ Fun fact **I think I'm funny**
 
